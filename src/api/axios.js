@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = procese.env.API_BASE_URL; // Replace with your backend base URL
+const API_BASE_URL = process.env.API_BASE_URL; // Replace with your backend base URL
 
 // Configure axios instance
 export const api = axios.create({
