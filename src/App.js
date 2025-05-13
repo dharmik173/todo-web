@@ -6,7 +6,7 @@ import RouteConfig from "./routes/RouteConfig";
 const App = () => {
     return (
         <Router>
-            <RouteConfig />
+            <RouteConfig /> 
         </Router>
     );
 };
